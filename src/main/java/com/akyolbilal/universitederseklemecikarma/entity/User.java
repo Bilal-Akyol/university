@@ -2,6 +2,7 @@ package com.akyolbilal.universitederseklemecikarma.entity;
 
 
 public class User {
+    //bu bilalın bir commitidir
     private Long id;
     private String name;
     private String surname;
